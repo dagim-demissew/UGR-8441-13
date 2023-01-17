@@ -136,45 +136,6 @@
 }
 
 
-
- 
-/* landing */
-
-
-#hero{
-    width: 100%;
-    height: 100vh;
-    background-image: url(images/bc3.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: aliceblue;
-    padding-left: 100px;
-    padding-top: 40px;
-    background-attachment: fixed;
-}
-
-
-#hero #hero__header1{
-    font-size: 100px;
-    font-weight: 500;
-    padding-top:70px;
-    line-height: 100px;
-}
-
-#hero #hero__header2{
-    font-size: 40px;
-    font-weight: 400; 
-}
-#hero #hero__text{
-    width: 450px;
-    font-size: 20px;
-}
-
-#discount{
-    margin-top: 20px;
-}
-
 @media (max-width:929px) and (orientation:landscape){
     #hero{
         padding: 0;
@@ -219,16 +180,6 @@
         transition: 0.5s;
     }
 }
-
-
- @media (max-width:1350px){
-    #navlink #menuList .menuList__link{
-        padding: 20px 1px;
-    }
-}
-
-
-
  
 /* landing */
 
